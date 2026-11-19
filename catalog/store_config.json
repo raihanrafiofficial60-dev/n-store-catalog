@@ -6,7 +6,7 @@
   "latestStoreVersionName": "1.0.0",
   "storeSelfUpdateUrl": "",
   "announcement": {
-    "id": "telegram_notice",
+    "id": "none",
     "title": "",
     "message": "",
     "type": "info",
