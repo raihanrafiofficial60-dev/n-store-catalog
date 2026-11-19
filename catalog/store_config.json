@@ -1,0 +1,15 @@
+{
+  "maintenanceMode": true,
+  "maintenanceMessage": "N Store is currently undergoing scheduled maintenance. Please check back shortly.",
+  "forceUpdateRequired": false,
+  "minStoreVersionCode": 100,
+  "latestStoreVersionName": "1.0.0",
+  "storeSelfUpdateUrl": "",
+  "announcement": {
+    "id": "telegram_notice",
+    "title": "",
+    "message": "",
+    "type": "info",
+    "isActive": false
+  }
+}
